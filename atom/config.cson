@@ -1,0 +1,13 @@
+"*":
+  core:
+    disabledPackages: [
+      "react-snippets"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 13
+    tabLength: 4
+  "exception-reporting":
+    userId: "7affe04c-b379-4451-a84e-876749718be0"
+  welcome:
+    showOnStartup: false

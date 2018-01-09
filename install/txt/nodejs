@@ -1,0 +1,6 @@
+.bashrc
+
+# Nodejs
+export NODEJS_HOME=/usr/lib/nodejs/node-v8.9.3
+export PATH=$NODEJS_HOME/bin:$PATH
+
